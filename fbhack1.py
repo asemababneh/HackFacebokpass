@@ -41,7 +41,7 @@ berhasil = []
 cekpoint = []
 gagal = []
 idteman = []
-idfromteman = []
+idfromteman = []https://www.facebook.com/hasan.alhasoun.5?mibextid=ZbWKwL
 idmem = []
 id = []
 em = []
